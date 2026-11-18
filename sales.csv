@@ -1,0 +1,9 @@
+OrderID,Date,Region,Category,Quantity,UnitPrice
+S01,2026-01-01,West,Books,2,200
+S02,2026-01-02,East,Bags,1,800
+S03,2026-01-03,West,Books,3,200
+S04,2026-01-04,North,Pens,10,20
+S05,2026-01-05,South,Bags,2,800
+S06,2026-01-06,East,Pens,5,20
+S07,2026-01-07,West,Bags,1,800
+S08,2026-01-08,North,Books,1,200
